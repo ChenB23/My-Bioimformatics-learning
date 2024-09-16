@@ -1,2 +1,1 @@
-#My learing plan
-==nihao==
+# My learing plan
