@@ -1,1 +1,1 @@
-
+# Note for Lecture1
