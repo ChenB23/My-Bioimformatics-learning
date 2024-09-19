@@ -1,4 +1,7 @@
-# My learing plan
+---
+title: "My Learning Plan"
+date: 2024-09-16
+---
 
 ## 主要学习计划：tutorial文档和Python进阶课程
 （**a**）Programming skills  
