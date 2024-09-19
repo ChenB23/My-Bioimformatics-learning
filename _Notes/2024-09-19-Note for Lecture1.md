@@ -22,15 +22,83 @@ date: 2024-09-19
 
 ### 学习内容
 - Programming skills：W1-16（R+Linux/Python（优））
+
+  <img src="C:\Users\86137\AppData\Roaming\Typora\typora-user-images\image-20240919225243741.png" alt="image-20240919225243741" style="zoom:100%;" />
+
 - Basic&NGS Data Analysis：W4-9
+
 - Machine learning&AI：W10-16
+
 - Single-cell and Screen Data：W11-16
 
-### 学习方法
-- in class
-- after class
+### 学习方法-费曼学习法
+- in-class and after-class
+
+- peer learning，team work，teach others
+
+- 一定时间后自主学习《Bioinformatics Data Skills》
 
   
+
+## 生物信息学的四个步骤
+
+### 0.Question
+
+#### 125个科学问题
+
+2005年*Science*的125个科学问题的前五个问题：
+
+宇宙；意识；基因多样性；基因与健康；物理定律的重定义
+
+#### 三大哲学问题
+
+奇点临近：世上的三大哲学问题：生命？意识？宇宙如何运转？
+
+#### 三大技术变革
+
+**R**obot
+
+**N**anotech
+
+**G**enetics
+
+
+
+### 1.Information
+
+1. Image
+
+2. Sequence：revolutions of sequencing technologies
+
+   - 二代
+
+   - 三代：Oxford Nanopore；Pacific Biosciences（Single molecule real-time）
+
+     Big Data；来源广泛（单细胞；器官；环境...）
+
+3. 人类基因组计划 竞赛
+
+### 2.Analysis
+
+1. Sequencing method + Bioinformatics tools
+
+<img src="C:\Users\86137\AppData\Roaming\Typora\typora-user-images\image-20240919231433357.png" alt="image-20240919231433357" style="zoom:50%;" />
+
+2. interpreting the data
+
+   解读数据 优势
+
+### 3.Modelling
+
+机器学习模型（11种），以线性回归为例。
+
+
+
+模型：公式+参数
+
+
+
+
 
 
 
