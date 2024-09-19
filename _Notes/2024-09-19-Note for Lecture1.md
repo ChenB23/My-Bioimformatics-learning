@@ -1,3 +1,7 @@
+---
+title: "Note for Lecture1"
+date: 2024-09-19
+---
 # Note for Lecture1
 ## 课程介绍
 ### 选修建议
