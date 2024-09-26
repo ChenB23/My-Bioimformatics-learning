@@ -6,4 +6,5 @@
 
 
 1. 输入docker info，显示很多个warning是咋回事呀？
-2. 
+2. 为啥ls -lh的share是有颜色的？
+3. 
